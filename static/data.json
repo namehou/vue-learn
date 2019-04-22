@@ -1,0 +1,10 @@
+{
+    "goods":[
+        {"index": 1, "title": "F系列", "img": "../static/img/logo.png"},
+        {"index": 2, "title": "F系列", "img": "../static/img/logo.png"},
+        {"index": 3, "title": "F系列", "img": "../static/img/logo.png"},
+        {"index": 4, "title": "F系列", "img": "../static/img/logo.png"},
+        {"index": 5, "title": "F系列", "img": "../static/img/logo.png"},
+        {"index": 6, "title": "F系列", "img": "../static/img/logo.png"}
+    ]
+}
